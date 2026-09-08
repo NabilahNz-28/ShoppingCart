@@ -89,7 +89,3 @@ A custom CSS design system built with CSS custom properties (design tokens):
 - **Typography**: Inter (sans-serif) + Playfair Display (serif headings)
 - **Spacing**: 4px base grid
 - **Transitions**: Consistent easing curves for all animations
-
-## 📝 License
-
-MIT
